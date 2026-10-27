@@ -1,0 +1,12 @@
+{
+  "max_len": 50,
+  "label_names": [
+    "sadness",
+    "joy",
+    "love",
+    "anger",
+    "fear",
+    "surprise"
+  ],
+  "model": "BiGRU"
+}
